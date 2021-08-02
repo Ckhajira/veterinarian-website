@@ -66,8 +66,15 @@ input {
 
 
 /* Start of Browse Veterinarians */
-
-
-
+.flex-row-container{
+    display: flex;
+}
+.head1{
+    font-size: 31px;
+}
+.location1{
+    color: #646060;
+    ;
+}
 
 /* End of Browse Veterinarians */
