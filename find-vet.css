@@ -6,8 +6,8 @@
     
     width: 1204px;
     height: 160px;
-    left: 46px;
-    top: 221px;
+    margin-left: 36px;
+    margin-right: 36px;
 
     background: #0663A6;
     border-radius: 50px;
@@ -55,6 +55,8 @@ input {
 }
 .background-color{
     background: #E5E5E5;
+    padding-top: 88px;
+    padding-bottom: 88px;;
     
 }
 .button1 p{
