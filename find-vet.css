@@ -1,3 +1,6 @@
+*{
+    font-family: "poppins", sans-serif;
+}
 .search-bar-background1 {
     position: absolute;
     width: 1280px;
@@ -24,7 +27,7 @@
     height: 46px;
     left: 80px;
     top: 278px;
-
+    
     background: #FFF9F9;
     border-radius: 50px;
 }
@@ -35,4 +38,21 @@ input {
     width: 373px;
     height: 46px;
     margin-right: 60px;
+    border: none;
+    text-align: center;
+}
+
+.button1 {
+    background: #1CD239;
+    border-radius: 50px;
+    width: 227px;
+    height: 47px;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+}
+.form-flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
