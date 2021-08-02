@@ -96,5 +96,8 @@ input {
 .flex-column-container{
     display: flex;
     flex-direction: column;
+    justify-content: space-around;
+    height: 2000px;
+    margin-top: -10px;
 }
 /* End of Browse Veterinarians */
