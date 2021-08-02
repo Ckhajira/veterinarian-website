@@ -28,3 +28,11 @@
     background: #FFF9F9;
     border-radius: 50px;
 }
+
+input {
+    display: inline;
+    border-radius: 50px;
+    width: 373px;
+    height: 46px;
+    margin-right: 60px;
+}
