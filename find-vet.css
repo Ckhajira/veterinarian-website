@@ -68,13 +68,33 @@ input {
 /* Start of Browse Veterinarians */
 .flex-row-container{
     display: flex;
+    
 }
 .head1{
     font-size: 31px;
+    margin-bottom: 5px;
 }
 .location1{
     color: #646060;
     ;
 }
-
+.element1 img{
+    border-radius: 1000px ;
+    margin-right: 50px;
+}
+.browse{
+    margin-left: 93px;
+    margin-right: 60px;
+    margin-top: 93px;
+}
+.browse-header{
+    color: #0E57AD;
+    font-size: 36px;
+    text-align: center;
+    
+}
+.flex-column-container{
+    display: flex;
+    flex-direction: column;
+}
 /* End of Browse Veterinarians */
