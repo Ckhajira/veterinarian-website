@@ -1,5 +1,5 @@
 .search-bar-background1 {
-   /* position: absolute; */
+    position: absolute;
     width: 1280px;
     height: 335px;
     left: 0px;
@@ -7,6 +7,24 @@
     background: #E5E5E5;
 }
 
-.search-bar-background2{
-    
-} 
+.search-bar-background2 {
+    position: absolute;
+    width: 1204px;
+    height: 160px;
+    left: 46px;
+    top: 221px;
+
+    background: #0663A6;
+    border-radius: 50px;
+}
+
+.search-form-1 {
+    position: absolute;
+    width: 373px;
+    height: 46px;
+    left: 80px;
+    top: 278px;
+
+    background: #FFF9F9;
+    border-radius: 50px;
+}
