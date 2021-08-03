@@ -1,23 +1,37 @@
-*{
+* {
     font-family: "Poppins", sans-serif;
 }
 
-.header-1{
-    background-color:#1C7FF3;
+.header-1 {
+    background-color: #1C7FF3;
     line-height: 20px;
     height: 46px;
     width: 1280px;
 }
-.user-account{
+
+.user-account {
     float: right;
     color: white;
     margin-right: 70px;
     font-size: 16px;
 }
 
-.veterinarian-account{
+.logo {
+    display: inline;
+}
+
+.veterinarian-account {
     float: right;
     color: white;
     margin-right: 90px;
     font-size: 16px;
+}
+
+ul .horizontal {
+    display: inline;
+    list-style: none;
+}
+
+ul li a {
+    text-decoration: none;
 }
