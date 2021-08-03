@@ -105,3 +105,11 @@ ul{
    padding-top: 1px;
    line-height: 45px; */
 }
+.itemb h3{
+    color: #0663A6;
+    font-size: 40px;
+
+}
+.vet-flex-container{
+    display: flex;
+}
