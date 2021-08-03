@@ -18,6 +18,9 @@
 
 .logo {
     display: inline;
+    color: #0E57AD;
+    font-size: 35px;
+
 }
 
 .veterinarian-account {
@@ -30,6 +33,7 @@
 ul .horizontal {
     display: inline;
     list-style: none;
+    margin-left: 30px;
 }
 
 ul li a {
