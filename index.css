@@ -1,6 +1,7 @@
 .handles{
     color: blue;
-    text align:centre;
+    text-align:centre;
+    margin-left:550px;
 }
 .customers{
     color: blue;
@@ -11,22 +12,26 @@
 }
 .information{
     font-weight: bold;
-    text-align: center;
-}
-.first{
+    text-align: center
+    }
+
+.Details{
     display: inline;
     margin-left: 200px;
+    text-align: center;
+    justify-content: space-between;
     
 }
-.last{
+.a{
     display: inline;
-    margin-left: 350px;
 }
-.address{
+.b{
     display: inline;
-    margin-left: 200px;
 }
-    .label{
-        display: inline;
-        margin-left: 350px;
-    }
+.a1{
+    display: block;
+}
+.mail{
+    margin-right: 46px;
+    margin-top: -50px;
+}
