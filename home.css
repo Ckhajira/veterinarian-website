@@ -17,11 +17,28 @@
     font-size: 16px;
 }
 .hero{
-    background-image: url("./cows-2641195_1920.jpg");
-    height: 627px;
+    background-image: url("./cow.jpg");
+    height: 1000px;
     width: 1280px;
     background-size: cover;
     background-repeat: no-repeat;
+}
+.button-interface{
+    background-color: #6CB840;
+    border: none;
+    color: white;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-left: 150px;
+
 }
 
 .logo {
@@ -33,13 +50,24 @@
 }
 .hero{
     color: white;
-    margin-top: -12px;
+    margin-top: -50px;
     
 }
+
 .txt1{
-    padding-top: 250px;
+    padding-top: 450px;
     padding-left: 150px;
-    font-size: 40px;
+    font-size: 50px;
+}
+.txt2{
+ padding-top: -80px;
+    padding-left: 150px;
+    font-size: 50px;
+}
+.txt3{
+    
+    padding-left: 150px;
+    font-size: 50px;
 }
 
 .veterinarian-account {
