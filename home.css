@@ -139,6 +139,8 @@ ul {
 .what-we-offer {
     margin-top: 150px;
     background-color: #E0FDDF;
+    padding-top: 70px;
+    padding-bottom: 100px;
 
 }
 .what-flex-container{
@@ -152,4 +154,7 @@ ul {
     width: 321px;
     height: 100px;
     border-bottom-right-radius: 40px;
+}
+.what-flex-container img{
+    margin-left: 40px;
 }
