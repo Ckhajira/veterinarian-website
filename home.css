@@ -16,6 +16,13 @@
     margin-right: 70px;
     font-size: 16px;
 }
+.hero{
+    background-image: url("./cows-2641195_1920.jpg");
+    height: 720px;
+    width: 1280px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
 .logo {
     display: inline;
