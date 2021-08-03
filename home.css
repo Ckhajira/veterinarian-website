@@ -3,7 +3,21 @@
 }
 
 .header-1{
-    background-color: teal;
-    height: 40px;
+    background-color:#1C7FF3;
+    line-height: 20px;
+    height: 46px;
     width: 1280px;
+}
+.user-account{
+    float: right;
+    color: white;
+    margin-right: 70px;
+    font-size: 16px;
+}
+
+.veterinarian-account{
+    float: right;
+    color: white;
+    margin-right: 90px;
+    font-size: 16px;
 }
