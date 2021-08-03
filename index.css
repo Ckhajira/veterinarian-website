@@ -1,3 +1,32 @@
-
-
+.handles{
+    color: blue;
+    text align:centre;
 }
+.customers{
+    color: blue;
+}
+.middle{
+    line-height: 50px;
+    text-align: center;
+}
+.information{
+    font-weight: bold;
+    text-align: center;
+}
+.first{
+    display: inline;
+    margin-left: 200px;
+    
+}
+.last{
+    display: inline;
+    margin-left: 350px;
+}
+.address{
+    display: inline;
+    margin-left: 200px;
+}
+    .label{
+        display: inline;
+        margin-left: 350px;
+    }
