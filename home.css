@@ -105,7 +105,7 @@ ul{
    padding-top: 1px;
    line-height: 45px; */
 }
-.itemb h3{
+.itemb h3, .what-we-offer h3{
     color: #0663A6;
     font-size: 40px;
     text-align: center;
@@ -122,4 +122,10 @@ ul{
 }
 .itema{
     margin-left: 10px;
+}
+
+.what-we-offer{
+    margin-top: 150px;
+    background-color:#E0FDDF;
+    ;
 }
