@@ -1,3 +1,9 @@
-* {
-    font-family: "Poppins";
+*{
+    font-family: "Poppins", sans-serif;
+}
+
+.header-1{
+    background-color: teal;
+    height: 40px;
+    width: 1280px;
 }
