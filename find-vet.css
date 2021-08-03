@@ -56,7 +56,8 @@ input {
 .background-color{
     background: #E5E5E5;
     padding-top: 88px;
-    padding-bottom: 88px;;
+    padding-bottom: 88px;
+    width: 1280px;
     
 }
 .button1 p{
@@ -109,6 +110,7 @@ input {
     height: 46px;
     width: 1280px;
     margin-bottom: 0;
+    
 }
 
 .user-account {
@@ -156,6 +158,8 @@ ul {
 
 .header-2 {
     background-color: #CFE3FB;
+    width: 1280px;
+  
 
 
     /* margin-top: -10px;
