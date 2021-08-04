@@ -18,7 +18,7 @@
 }
 
 .hero {
-    background-image: url("./cow.jpg");
+    background-image: url("./images/cow.jpg");
     height: 1000px;
     width: 1280px;
     background-size: cover;
