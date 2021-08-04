@@ -6,13 +6,7 @@
 	background-size: cover;
 	position: relative;
 }
-h1.login-title {
-	color: ;
-	margin: 0px auto 25px;
-	font-size: 25px;
-	font-weight: 300;
-	text-align: center;
-}
+
 .signUp {
 	margin: 50px auto;
 	width: 300px;
