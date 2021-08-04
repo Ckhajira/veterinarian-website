@@ -2,7 +2,7 @@
 
 This is a site to connect farmers with veterinarians, 04/08/2021
 
-By Khajira Christopher, Larvine Asande, Elizabeth Nyambura, Nancy Mwende
+By Khajira Christopher, Larvine Asande, Elizabeth Gikonyo, Nancy Mwende
 
 ## Description
 
@@ -68,4 +68,4 @@ Reset Page
 
 ### License
 MIT License
-Copyright (c) 2021 Khajira Christopher, Larvine Asande, Elizabeth Nyambura, Nancy Mwende
+Copyright (c) 2021 Khajira Christopher, Larvine Asande, Elizabeth Gikonyo, Nancy Mwende
