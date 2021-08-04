@@ -1,0 +1,208 @@
+*{
+    font-family: "poppins", sans-serif;
+}
+
+.search-bar-background2 {
+    
+    width: 1204px;
+    height: 160px;
+    margin-left: 36px;
+    margin-right: 36px;
+
+    background: #0663A6;
+    border-radius: 50px;
+}
+
+.search-form-1 {
+    position: absolute;
+    width: 373px;
+    height: 46px;
+    left: 80px;
+    top: 278px;
+    
+    background: #FFF9F9;
+    border-radius: 50px;
+}
+
+input {
+    display: inline;
+    border-radius: 50px;
+    width: 373px;
+    height: 46px;
+    margin-right: 60px;
+    border: none;
+    text-align: center;
+   
+}
+
+.button1 {
+    background: #1CD239;
+    border-radius: 50px;
+    width: 227px;
+    height: 47px;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+}
+.form-flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    height: 160px;
+    
+}
+.background-color{
+    background: #E5E5E5;
+    padding-top: 88px;
+    padding-bottom: 88px;
+    width: 1280px;
+    
+}
+.button1 p{
+    margin-top: 5px;
+    
+}
+
+
+/* Start of Browse Veterinarians */
+.flex-row-container{
+    display: flex;
+    
+}
+.head1{
+    font-size: 31px;
+    margin-bottom: 5px;
+}
+.location1{
+    color: #646060;
+    ;
+}
+.element1 img{
+    border-radius: 1000px ;
+    margin-right: 50px;
+}
+.browse{
+    margin-left: 93px;
+    margin-right: 60px;
+    margin-top: 93px;
+}
+.browse-header{
+    color: #0E57AD;
+    font-size: 36px;
+    text-align: center;
+    
+}
+.flex-column-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 2000px;
+    margin-top: -10px;
+}
+/* End of Browse Veterinarians */
+
+/* Beginning of Header */
+.header-1 {
+    background-color: #1C7FF3;
+    line-height: 20px;
+    height: 46px;
+    width: 1280px;
+    margin-bottom: 0;
+    
+}
+
+.user-account {
+    float: right;
+    color: white;
+    margin-right: 70px;
+    font-size: 16px;
+}
+
+.logo {
+
+    color: #0E57AD;
+
+    font-size: 35px;
+
+}
+.veterinarian-account {
+    float: right;
+    color: white;
+    margin-right: 90px;
+    font-size: 16px;
+}
+
+ul .horizontal {
+    display: flex;
+    list-style: none;
+    margin-left: 90px;
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+ul {
+    display: flex;
+    margin-top: 0;
+    margin-bottom: 0;
+    justify-content: space-around;
+    align-content: center;
+    width: 1200px;
+    height: 48px;
+    margin-right: 90px;
+    line-height: 24px;
+}
+
+.header-2 {
+    background-color: #CFE3FB;
+    width: 1280px;
+  
+
+
+    /* margin-top: -10px;
+   padding-top: 1px;
+   line-height: 45px; */
+}
+
+/* End of header */
+
+.foot-container{
+    display: flex;
+    justify-content: space-around;
+}
+.foot{
+    background-color: #CFE3FB;
+    padding-bottom: 60px;
+    padding-top: 60px;
+}
+ol li{
+    text-decoration: none;
+    list-style: none;
+}
+.foot h2{
+    margin-left: 40px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #0E57AD;
+  
+   
+}
+.foot1{
+    margin-left: -90px;
+}
+.foot2{
+    margin-right: -90px;
+}
+.foot h3{
+    text-align: center;
+    margin-top: 30px;
+}
+.social
+{
+    display: flex;
+    justify-content: space-evenly;
+
+}
