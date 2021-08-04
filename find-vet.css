@@ -166,3 +166,43 @@ ul {
    padding-top: 1px;
    line-height: 45px; */
 }
+
+/* End of header */
+
+.foot-container{
+    display: flex;
+    justify-content: space-around;
+}
+.foot{
+    background-color: #CFE3FB;
+    padding-bottom: 60px;
+    padding-top: 60px;
+}
+ol li{
+    text-decoration: none;
+    list-style: none;
+}
+.foot h2{
+    margin-left: 40px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #0E57AD;
+  
+   
+}
+.foot1{
+    margin-left: -90px;
+}
+.foot2{
+    margin-right: -90px;
+}
+.foot h3{
+    text-align: center;
+    margin-top: 30px;
+}
+.social
+{
+    display: flex;
+    justify-content: space-evenly;
+
+}
