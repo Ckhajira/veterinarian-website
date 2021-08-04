@@ -143,7 +143,8 @@ ul {
     padding-bottom: 100px;
 
 }
-.what-flex-container{
+
+.what-flex-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -157,30 +158,79 @@ ul {
     border-bottom-right-radius: 40px;
 
 }
-.what-flex-container img{
+
+.what-flex-container img {
     margin-left: 40px;
 }
-.itemz{
+
+.itemz {
     margin-bottom: 50px;
 }
-.convenient-pay h3{
+
+.convenient-pay h3 {
     color: #0663A6;
     font-size: 40px;
     text-align: center;
     margin-top: 150px;
 }
-.convenient-pay p{
+
+.convenient-pay p {
     text-align: center;
 }
 
-.convenient-pay-flex{
+.convenient-pay-flex {
     display: flex;
     justify-content: space-around;
     margin-top: 60px;
     padding-bottom: 40px;
 }
-.convenient-pay{
+
+.convenient-pay {
     background-color: #F3EFEF;
     padding-top: 20px;
     padding-bottom: 90px;
+}
+
+.foot-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.foot {
+    background-color: #CFE3FB;
+    padding-bottom: 60px;
+    padding-top: 60px;
+}
+
+ol li {
+    text-decoration: none;
+    list-style: none;
+}
+
+.foot h2 {
+    margin-left: 40px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #0E57AD;
+
+
+}
+
+.foot1 {
+    margin-left: -90px;
+}
+
+.foot2 {
+    margin-right: -90px;
+}
+
+.foot h3 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.social {
+    display: flex;
+    justify-content: space-evenly;
+
 }
