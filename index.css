@@ -15,23 +15,140 @@
     text-align: center
     }
 
-.Details{
-    display: inline;
-    margin-left: 200px;
-    text-align: center;
-    justify-content: space-between;
+.fname-input{
+    margin-top: 60px;
     
 }
-.a{
-    display: inline;
+.fname{
+    margin-left: 200px;
+    top: 200px;
+    margin-bottom: 300px;
+    
+    
 }
-.b{
-    display: inline;
+form{
+    margin-top: 100px;
+    background-color: lightgray;
+    margin-left: 50px;
+    margin-right: 50px;
 }
-.a1{
-    display: block;
+.email{
+    margin-left: 230px;
+    padding-top: 40px;
 }
-.mail{
-    margin-right: 46px;
-    margin-top: -50px;
+input{
+    margin-left: 10px;
+    margin-bottom: 50px;
+    width: 240px;
+    height: 20px;
 }
+.submit{
+    margin-left:500px;
+    text-align: center;
+    background-color: lime;
+    max-width: 100px;
+    color: white;
+ font-weight:bold;
+    border-radius:800px;
+}
+.foot-container{
+    display: flex;
+    justify-content: space-around;
+}
+.foot{
+    background-color: #CFE3FB;
+    padding-bottom: 60px;
+    padding-top: 60px;
+}
+ol li{
+    text-decoration: none;
+    list-style: none;
+}
+.foot h2{
+    margin-left: 40px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #0E57AD;
+  
+   
+}
+.foot1{
+    margin-left: -90px;
+}
+.foot2{
+    margin-right: -90px;
+}
+.foot h3{
+    text-align: center;
+    margin-top: 30px;
+}
+.social
+{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.header-1 {
+    background-color: #1C7FF3;
+    line-height: 20px;
+    height: 46px;
+    width: 1280px;
+    margin-bottom: 0;
+    
+}
+
+.user-account {
+    float: right;
+    color: white;
+    margin-right: 70px;
+    font-size: 16px;
+}
+
+.logo {
+
+    color: #0E57AD;
+
+    font-size: 35px;
+
+}
+.veterinarian-account {
+    float: right;
+    color: white;
+    margin-right: 90px;
+    font-size: 16px;
+}
+
+ul .horizontal {
+    display: flex;
+    list-style: none;
+    margin-left: 90px;
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+ul {
+    display: flex;
+    margin-top: 0;
+    margin-bottom: 0;
+    justify-content: space-around;
+    align-content: center;
+    width: 1200px;
+    height: 48px;
+    margin-right: 90px;
+    line-height: 24px;
+}
+
+.header-2 {
+    background-color: #CFE3FB;
+    width: 1280px;
+  
+
+
+    /* margin-top: -10px;
+   padding-top: 1px;
+   line-height: 45px; */
+}
+
