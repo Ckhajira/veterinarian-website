@@ -1,3 +1,9 @@
 .information{
 text-align: justify;
+display:table-row;
+}
+.flex-container{
+display:table-row;
+justify-content: center;
+
 }

@@ -6,17 +6,43 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet"href="index.css">
 </head>
-<body>
-    <div class="information">
-        <p>Services you are purchasing</p>  
-    </div>
-    <div>
-        <img src="doct/d0c4.jpg" alt="doc" width=300" height="300">
-        <div class ="text">
-            <textarea name="confirm order" id="text" cols="5" rows="5"></textarea>
+<body> 
+    <div class="flex-container">
+            <div class="information">
+                <div><p>Services you are purchasing</p>
+                    <img src="doct/d0c4.jpg" alt="doc" width="300" height="300">
+                </div>
             </div>
-    </div>
+        <div class="details">
+            <p>Consultation with</p>
+            <p>Date:</p>
+            <p>Time:</p>
+            <p>Price:Ksh</p>
+        </div>
+        <div class="pay">
+            <form >
+                <p>MODES OF PAYMENT:</p>
+                  <input type="radio" id="html" name="easy-mode" value="MASTERCARD">
+                  <label for="html">MASTERCARD</label> 
+                <img src="doct/cash.jpg" alt="doc" width="30" height="30">
+                <br>
+                  <input type="radio" id="css" name="fav-mode" value="MPESA">
+                  <label for="css">M-PESA</label>
+                <img src="doct/mpesa.png" alt="doc" width="30" height="30">
+                <br>
+                  <input type="radio" id="javascript" name="other-mode" value="BITCOINS">
+                  <label for="BITCOINS">Cash</label>
+                <img src="doct/cash.jpg" alt="doc" width="30" height="30">
 
+                <br>
+                <P>Labour Charge</P>
+                <p>Transport Charge</p>
+                <p>Total</p>
+
+                <input type="submit" value="Check out">
+            </form>
+        </div>
+    </div> 
     
 </body>
 </html>
