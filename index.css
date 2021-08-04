@@ -1,0 +1,158 @@
+/* Beginning of Header */
+.header-1 {
+    background-color: #1C7FF3;
+    line-height: 20px;
+    height: 46px;
+    width: 1280px;
+    margin-bottom: 0;
+    
+}
+
+.user-account {
+    float: right;
+    color: white;
+    margin-right: 70px;
+    font-size: 16px;
+}
+
+.logo {
+
+    color: #0E57AD;
+
+    font-size: 35px;
+
+}
+
+.veterinarian-account {
+    float: right;
+    color: white;
+    margin-right: 90px;
+    font-size: 16px;
+}
+
+ul .horizontal {
+    display: flex;
+    list-style: none;
+    margin-left: 90px;
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+ul {
+    display: flex;
+    margin-top: 0;
+    margin-bottom: 0;
+    justify-content: space-around;
+    align-content: center;
+    width: 1200px;
+    height: 48px;
+    margin-right: 90px;
+    line-height: 24px;
+}
+
+.header-2 {
+    background-color: #CFE3FB;
+    width: 1280px;
+  
+
+
+    /* margin-top: -10px;
+   padding-top: 1px;
+   line-height: 45px; */
+}
+
+/* End of header */
+.title{
+   color: #0E57AD;
+    text-align: center;
+    font-size: 35px;
+    margin-top: 50px;
+    font-weight: bold;
+}
+.parag{
+text-align: center;
+
+}
+body{
+font-family: "Poppins";
+font-weight: bold ;
+margin: 0;
+
+}
+img{
+    margin-left: 90px;
+    display: block;
+}
+.image img{
+    margin-left: 150px;
+}
+.flex-container {
+    display: flex;
+    margin-left: 20px;
+    border-radius: 10px;
+    justify-content: space-between;
+    width: 1000px;
+    height: 500px;
+    margin-left: 80px;
+  }
+
+.doc1 img{
+    border-radius: 1000px;
+}
+.doc1 p{
+    text-align: center;
+    margin-left: 100px;
+}
+.doc2 img{
+    border-radius: 1000px;
+}
+.doc2 p{
+    text-align: center;
+    margin-left: 100px;
+}
+.doc3 img{
+    border-radius: 1000px;
+}
+.doc3 p{
+    text-align: center;
+    margin-left: 80px;
+}
+.foot-container{
+    display: flex;
+    justify-content: space-around;
+}
+.foot{
+    background-color: #CFE3FB;
+    padding-bottom: 60px;
+    padding-top: 60px;
+}
+ol li{
+    text-decoration: none;
+    list-style: none;
+}
+.foot h2{
+    margin-left: 40px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #0E57AD;
+  
+   
+}
+.foot1{
+    margin-left: -90px;
+}
+.foot2{
+    margin-right: -90px;
+}
+.foot h3{
+    text-align: center;
+    margin-top: 30px;
+}
+.social
+{
+    display: flex;
+    justify-content: space-evenly;
+
+}
