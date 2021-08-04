@@ -1,7 +1,14 @@
 *{
     font-family: "Poppins", sans-serif;
+    
 }
-
+a  {
+    text-decoration: none;
+    color: rgba(12, 12, 179, 0.842);
+}
+.header-1 a{
+    color: white;
+}
 /* Beginning of Header */
 .header-1 {
     background-color: #1C7FF3;

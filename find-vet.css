@@ -1,6 +1,13 @@
 *{
     font-family: "poppins", sans-serif;
 }
+a {
+    text-decoration: none;
+    color: rgba(12, 12, 179, 0.842);
+}
+.header-1 a{
+    color: white;
+}
 
 .search-bar-background2 {
     

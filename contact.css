@@ -3,6 +3,13 @@
     text-align:centre;
     margin-left:550px;
 }
+a {
+    text-decoration: none;
+    color: rgba(12, 12, 179, 0.842);
+}
+.header-1 a{
+    color: white;
+}
 .customers{
     color: blue;
 }
